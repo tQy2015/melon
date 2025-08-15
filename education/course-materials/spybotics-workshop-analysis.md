@@ -8,7 +8,7 @@
 - **Title**: Spybotics Workshop 3-Year Analysis Report
 - **Version**: 1.0
 - **Created**: 2025-08-15
-- **Author**: Golden_Jackal (Takuya Kobayashi)
+- **Author**: TQY Kobayashi
 - **Source**: Blog archive analysis
 - **Original**: MELON #483
 

@@ -41,8 +41,6 @@
 - **GUI Programming**: Using bundled software
 - **CUI Programming**: Using NQC (Not Quite C)
 
-**Technical Background**: Started from programming education for son (5th grade)
-
 ### 2.2 Second Session (2009)
 **Planning Stage**: Continuation decided in June meeting
 

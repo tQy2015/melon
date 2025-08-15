@@ -9,6 +9,7 @@ Educational resources and course materials for creative technology education.
 - **ui-ux-design/**: UI/UX design workflows and case studies
 - **ai-tools/**: AI integration in creative workflows
 - **course-materials/**: Syllabi, assignments, and educational resources
+- **workshop/**: Hands-on workshop materials and projects
 
 ## Usage
 

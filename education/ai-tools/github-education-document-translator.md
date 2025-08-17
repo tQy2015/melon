@@ -10,6 +10,7 @@ subcategory: ai-tools
 tags:
   - education
   - artificial-intelligence
+  - claude-ai
   - educational-resources
 license: MIT
 melon_id: 251
@@ -25,6 +26,21 @@ version: '1.0'
 GitHub Education認証では、学生・教員の所属機関証明が最重要要素となる。本AMPエージェントは日本の教育機関が発行する各種証明書類の、GitHub認証要件を考慮した英語文書への変換を支援するLLMベースの翻訳支援ツールである。
 
 **核心価値**: 位置情報の不正確性を補完し、文書によるより確実な所属証明を支援
+
+## 🤖 MAIA（Micro AI Agent）実行ファイル
+
+このシステムは**MAIA JSONファイル**として実装されており、任意のLLMで直接利用可能です：
+
+**📁 実行ファイル**: `MAIA-github-edu-translator.json`  
+**🔗 GitHub**: https://github.com/tQy2015/melon/blob/main/education/ai-tools/MAIA-github-edu-translator.json
+
+### 使用方法
+1. **JSONファイルをダウンロード** - 上記GitHubリンクから取得
+2. **LLMに投入** - ChatGPT、Claude、Gemini等にJSONファイル全体をコピー&ペースト
+3. **文書をアップロード** - 翻訳したい学術文書（学生証、在学証明書等）をアップロード
+4. **自動実行** - MAIAが自動的に認証用英語文書を生成
+
+**💡 特徴**: プロンプトエンジニアリング不要、ワンクリックで高品質な翻訳結果を取得
 
 ## 2. ファイル構成と使用推奨
 

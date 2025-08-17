@@ -1,0 +1,103 @@
+{
+  "AMP": {
+    "name": "GitHub Education Document Translator",
+    "version": "1.0",
+    "description": "GitHub教育版認証用の学術文書翻訳（学生・教員対応）",
+    "category": "document_processing",
+    "created": "2025-05-23",
+    "key_insight": "GitHub認証は所属機関証明書類が最重要、位置情報は不正確なため文書重視"
+  },
+  
+  "workflow_steps": [
+    "文書分析→内容抽出→翻訳実行→レイアウト再現→認証用出力"
+  ],
+  
+  "translation_core": {
+    "academic_roles": {
+      "学生": "Student", "大学院生": "Graduate Student", "研究生": "Research Student",
+      "教授": "Professor", "准教授": "Associate Professor", "講師": "Lecturer", 
+      "助教": "Assistant Professor", "客員教授": "Visiting Professor"
+    },
+    "documents": {
+      "学生証": "Student ID Card", "在学証明書": "Certificate of Enrollment",
+      "成績証明書": "Official Transcript", "辞令": "Letter of Appointment",
+      "在職証明書": "Certificate of Employment", "所属証明書": "Certificate of Affiliation"
+    },
+    "institutions": {
+      "大学": "University", "大学院": "Graduate School", "学部": "Faculty/College",
+      "学校法人": "Educational Corporation", "国立大学法人": "National University Corporation"
+    },
+    "time_format": {
+      "令和": "Reiwa", "平成": "Heisei", "年月日": "Year/Month/Day format"
+    }
+  },
+  
+  "styling_guide": {
+    "formal_layout": "centered certificate with gold border, serif typography",
+    "colors": "#d4af37 border, #2c2c2c text, gradient background",
+    "elements": "ornate corners, official seal placeholder, professional spacing"
+  },
+  
+  "core_prompt": {
+    "instruction": "日本の教育機関発行文書をGitHub Education認証用に英訳してください。学生・教員問わず適切に処理し、原文書と同レイアウトでHTMLまたはアーティファクト出力してください。",
+    "requirements": [
+      "公式文書としての格式保持",
+      "所属機関の明確な英語表記", 
+      "人名・日付の正確な翻訳",
+      "原文書レイアウトの再現",
+      "GitHub認証審査基準への適合"
+    ]
+  },
+  
+  "github_context": {
+    "success_key": "所属機関証明書類が認証の鍵（位置情報は不正確なため文書重視）",
+    "target_users": "学生・教員（大学、高専、専門学校等）",
+    "common_documents": "学生証、在学証明書、成績証明書、辞令、在職証明書等",
+    "critical_elements": "機関名、所属期間、発行者印、公式レイアウト"
+  },
+
+  "submission_workflow": {
+    "steps": [
+      {
+        "step": 1,
+        "action": "HTMLファイル保存",
+        "detail": "生成されたHTMLファイルを「document_translation.html」として任意のフォルダに保存"
+      },
+      {
+        "step": 2, 
+        "action": "ブラウザで開く",
+        "detail": "保存したHTMLファイルをダブルクリックしてブラウザで表示"
+      },
+      {
+        "step": 3,
+        "action": "印刷実行",
+        "detail": "Ctrl+P（またはCmd+P）で印刷画面を開き、PDFまたは用紙に印刷"
+      },
+      {
+        "step": 4,
+        "action": "原本と並列配置",
+        "detail": "オリジナル文書と英訳文書を並べて同一フレーム内に配置"
+      },
+      {
+        "step": 5,
+        "action": "認証用撮影",
+        "detail": "両文書が明瞭に読める状態で撮影（スマホ可、解像度に注意）"
+      },
+      {
+        "step": 6,
+        "action": "GitHub申請",
+        "detail": "撮影画像をGitHub Education申請フォームにアップロード"
+      }
+    ],
+    "tips": [
+      "印刷時は「背景の画像とグラフィック」を有効にして装飾を保持",
+      "撮影時は影や反射を避け、文字が鮮明に読めることを確認"
+    ]
+  },
+
+  "output_instructions": {
+    "completion_message": "✅ 翻訳完了！以下の手順でGitHub Education認証を進めてください：",
+    "auto_display": true,
+    "format": "numbered_steps_with_tips"
+  }
+}

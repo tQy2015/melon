@@ -1,3 +1,12 @@
+---
+title: "Education"
+description: "Educational resources and course materials for creative technology education."
+date: "2025-08-17"
+author: "TQY Kobayashi"
+category: "education"
+tags: ["education", "readme", "documentation"]
+license: "MIT"
+---
 # Education
 
 Educational resources and course materials for creative technology education.

@@ -1,3 +1,12 @@
+---
+title: "amp-protocol"
+description: "A standard protocol for managing large artifacts and context in LLM sessions"
+date: "2025-03-22"
+author: "TQY Kobayashi"
+category: "protocol"
+tags: ["amp", "llm", "protocol", "context-management"]
+license: "MIT"
+---
 # amp-protocol
 A standard protocol for managing large artifacts and context in LLM sessions
 

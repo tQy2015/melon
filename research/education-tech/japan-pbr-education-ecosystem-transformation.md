@@ -1,3 +1,13 @@
+---
+title: "日本のPBR教育エコシステム変革提言"
+description: "技術と美術の融合によるデジタルコンテンツ産業の再興"
+date: "2025-08-15"
+author: "Gemini (via Claude Code)"
+category: "education-tech"
+tags: ["pbr", "education", "ecosystem", "digital-contents", "japan"]
+license: "MIT"
+version: "1.0"
+---
 # 日本のPBR教育エコシステム変革提言
 **—技術と美術の融合によるデジタルコンテンツ産業の再興—**
 

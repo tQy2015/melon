@@ -1,16 +1,17 @@
+---
+title: "Spybotics Workshop 3-Year Analysis Report"
+description: "Comprehensive analysis of the continuous implementation and community contribution of educational programs utilizing LEGO Spybotics at Takenotai Community Center (2008-2011)."
+date: "2025-08-15"
+author: "TQY Kobayashi"
+category: "course-materials"
+tags: ["spybotics", "lego", "robotics", "education", "workshop", "community"]
+license: "MIT"
+version: "1.0"
+melon_id: "483"
+---
 # Spybotics Workshop 3-Year Analysis Report
 
 **Educational Robotics Program at Takenotai Community Center (2008-2011)**
-
----
-
-**Document Information:**
-- **Title**: Spybotics Workshop 3-Year Analysis Report
-- **Version**: 1.0
-- **Created**: 2025-08-15
-- **Author**: TQY Kobayashi
-- **Source**: Blog archive analysis
-- **Original**: MELON #483
 
 ---
 
@@ -153,4 +154,4 @@
 
 **License**: This work is licensed under Creative Commons Attribution 4.0 International License.
 
-**Repository**: [MELON System](https://github.com/tqy20/melon) - Education/Workshop Section
+**Repository**: [MELON System](https://github.com/tqy2015/melon) - Education/Workshop Section

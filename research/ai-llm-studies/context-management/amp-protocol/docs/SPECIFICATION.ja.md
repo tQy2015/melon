@@ -1,3 +1,12 @@
+---
+title: "AMP: Artifact Migration Protocol (ja)"
+description: "LLMとのセッションにおける大規模アーティファクトとコンテキストを管理するための標準プロトコル"
+date: "2025-03-23"
+author: "TQY Kobayashi"
+category: "protocol-specification"
+tags: ["amp", "llm", "protocol", "context-management", "japanese"]
+license: "MIT"
+---
 # AMP: Artifact Migration Protocol
 
 **Artifact Migration Protocol (AMP)** はLLMとのセッションにおける大規模アーティファクトとコンテキストを管理するための標準プロトコルです。このプロトコルは、トークン制限のあるAIシステムでも長時間にわたる複雑な会話を維持し、生成された成果物を効率的に保存・再利用するために設計されています。

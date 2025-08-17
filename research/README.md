@@ -1,3 +1,12 @@
+---
+title: "Research"
+description: "Academic research materials and technical studies."
+date: "2025-08-17"
+author: "TQY Kobayashi"
+category: "research"
+tags: ["research", "readme", "documentation"]
+license: "MIT"
+---
 # Research
 
 Academic research materials and technical studies.

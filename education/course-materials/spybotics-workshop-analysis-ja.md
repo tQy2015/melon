@@ -1,16 +1,17 @@
+---
+title: "Spyboticsワークショップ3年間開催分析レポート"
+description: "竹の台児童館におけるLEGO Spyboticsを活用した教育プログラム（2008-2011年）の継続実施と地域貢献に関する包括的分析"
+date: "2025-08-15"
+author: "TQY Kobayashi"
+category: "course-materials"
+tags: ["spybotics", "lego", "robotics", "education", "workshop", "community"]
+license: "MIT"
+version: "1.0"
+melon_id: "483"
+---
 # Spyboticsワークショップ3年間開催分析レポート
 
 **竹の台児童館における教育ロボティクスプログラム（2008-2011年）**
-
----
-
-**文書情報:**
-- **タイトル**: Spyboticsワークショップ3年間開催分析レポート
-- **バージョン**: 1.0
-- **作成日**: 2025-08-15
-- **著者**: TQY Kobayashi
-- **ソース**: ブログアーカイブ分析
-- **オリジナル**: MELON #483
 
 ---
 

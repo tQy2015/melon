@@ -1,3 +1,12 @@
+---
+title: "Comparative Analysis of Token Exhaustion Characteristics Across Multiple AI Models"
+description: "An experimental study comparing context capacity, token efficiency, and exhaustion behaviors across major AI models like Claude, Deepseek, Grok 3, Copilot, and Gemini."
+date: "2025-03-23"
+author: "TQY Kobayashi"
+category: "research"
+tags: ["llm", "ai-models", "token-exhaustion", "context-window", "amp-protocol", "benchmark"]
+license: "MIT"
+---
 # 複数AIモデル間のトークン枯渇特性比較
 
 **作成日**: 2025年3月23日  

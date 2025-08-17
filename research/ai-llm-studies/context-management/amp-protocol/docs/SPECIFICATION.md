@@ -1,3 +1,12 @@
+---
+title: "AMP: Artifact Migration Protocol"
+description: "A standard protocol for managing large artifacts and contexts in sessions with LLMs (Large Language Models)."
+date: "2025-03-22"
+author: "TQY KOBAYASHI"
+category: "protocol-specification"
+tags: ["amp", "llm", "protocol", "context-management"]
+license: "MIT"
+---
 # AMP: Artifact Migration Protocol
 
 **Artifact Migration Protocol (AMP)** is a standard protocol for managing large artifacts and contexts in sessions with LLMs (Large Language Models). This protocol is designed to maintain complex conversations over extended periods despite token limitations, and to efficiently store and reuse generated outputs.

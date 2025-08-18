@@ -1,6 +1,6 @@
 ---
 title: VS Code + Node.js + Gemini CLI Education Foundation Guide
-description: '---'
+description: "Gemini CLI setup manual"
 date: '2025-07-11'
 author: Tiky Kobayashi
 category: research
@@ -20,7 +20,6 @@ license: MIT
 melon_id: 356
 version: '2.1'
 ---
-
 # VS Code + Node.js + Gemini CLI 教育基盤セットアップガイド
 
 **対象者**: プログラミング初学者〜中級学生

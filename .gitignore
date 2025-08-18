@@ -49,3 +49,10 @@ npm-debug.log*
 *.mb.bak
 *.ma.bak
 *.swatches
+
+# geminiCLI
+gemini.md
+gemini-settings.json
+
+#Claude Code
+CLAUDE.md

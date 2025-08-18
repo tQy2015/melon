@@ -2,8 +2,7 @@
 title: >-
   The Reiwa 7-7-7 Phenomenon: Railway Culture Born from Lucky Seven After 30
   Years
-description: >-
-  令和7年7月7日という「777」が並ぶ特別な日に、全国の鉄道会社が記念切符を一斉発売し、数字への愛着と紙の切符文化の根強さを証明した。この現象は単なる商業イベントを超え、デジタル化時代における伝統的な記念品価値の再発見と、日本独特の語呂合わせ・数字遊び文化の継承を示している。30年ぶりという希少性が、即日完売という社会現象を生み出した。
+description: "令和7年7月7日の鉄道記念切符現象分析"
 date: '2025-07-11'
 author: Tiky Kobayashi
 category: misc

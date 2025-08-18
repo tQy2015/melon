@@ -1,6 +1,6 @@
 ---
 title: GitHub Education Application Manual for Students
-description: この無料版では、以下の制限があります：
+description: "GitHub Education学生申請マニュアル"
 date: '2025-08-17'
 author: Tiky Kobayashi
 category: misc

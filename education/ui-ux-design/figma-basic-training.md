@@ -1,6 +1,6 @@
 ---
 title: "Figma Basic Training Course (90 minutes)"
-description: "Comprehensive 90-minute Figma basic training course covering interface, components, variants, Auto Layout, and interactive prototyping"
+description: "インタラクティブボタン実装とUI遷移設計の基礎技術"
 date: "2025-08-15"
 author: "Tiky Kobayashi"
 category: "ui-ux-design"

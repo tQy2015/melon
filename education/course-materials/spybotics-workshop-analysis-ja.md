@@ -1,6 +1,6 @@
 ---
 title: "Spyboticsワークショップ3年間開催分析レポート"
-description: "竹の台児童館におけるLEGO Spyboticsを活用した教育プログラム（2008-2011年）の継続実施と地域貢献に関する包括的分析"
+description: "Spyboticsワークショップ3年実施分析（竹の台児童館）"
 date: "2025-08-15"
 author: "TQY Kobayashi"
 category: "course-materials"

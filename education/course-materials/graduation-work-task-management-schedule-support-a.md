@@ -1,7 +1,6 @@
 ---
 title: Graduation Work Task Management & Schedule Support Agent
-description: >-
-  *芸術大学4年生向け卒業制作のタスク管理・スケジュール作成支援システム。学生の制作内容を個別ヒアリングし、具体的なタスク分解、数値化、進捗管理、スケジュール可視化を支援。最終的にパワーポイント用構造化文章を生成する対話型マイクロAIエージェント。*
+description: 卒業制作タスク管理・スケジュール支援システム
 date: '2025-06-05'
 author: Tiky Kobayashi
 category: education

@@ -1,6 +1,6 @@
 ---
 title: "Professional Design Workflow: Structured Approach"
-description: "Comprehensive guide to establishing professional design workflows with modular thinking, non-destructive editing, and systematic project management"
+description: "マルチレゾリューション対応・効率的修正プロセスの設計思想"
 date: "2025-08-15"
 author: "Tiky Kobayashi"
 category: "ui-ux-design"

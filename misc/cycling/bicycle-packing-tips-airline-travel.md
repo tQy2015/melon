@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide to Airline Travel with Road Bikes"
-description: "Practical tips for beginners on packing and transporting road bikes on domestic flights (ANA experience-based)"
+description: "ロードバイク航空輸送ガイド（ANA実体験）"
 date: "2025-08-14"
 author: "Tiky Kobayashi"
 category: "cycling"

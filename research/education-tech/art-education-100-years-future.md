@@ -1,6 +1,6 @@
 ---
 title: "Art Education for the 100-Year Future: Pioneering New Frontiers"
-description: "A revolutionary proposal for Japanese art university reform, moving beyond imitation to create universal principles-based education for future human expression"
+description: "日本美術大学改革提案：原理主義教育への転換"
 date: "2025-08-15"
 author: "Tiky Kobayashi"
 category: "education-tech"

@@ -22,6 +22,7 @@ MELONシステムから生成された学術研究成果・技術分析・調査
 ### Computer Graphics
 CG技術・レンダリング・視覚表現研究
 - **[Computer Graphics](computer-graphics/)** - PBR技術研究・マルチ軸分析・レンダリング最適化
+  - **PBR実習教材**: 32年ラグから学ぶ物理ベースレンダリング革命（Cook-Torrance理論からUnreal Engine実装まで）
 
 ### Education Technology
 教育技術・デジタル学習・未来予測分析

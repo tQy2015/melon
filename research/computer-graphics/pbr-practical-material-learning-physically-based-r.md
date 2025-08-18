@@ -1,8 +1,7 @@
 ---
 title: >-
-  PBR Practical Material Learning: Physically Based Rendering from the 32-Year
-  Lag
-description: '---'
+  PBR Practical Material Learning: Physically Based Rendering from the 32-Year Lag
+description: PBRは理論から普及に32年もかかった
 date: '2025-08-18'
 author: Tiky Kobayashi
 category: research
